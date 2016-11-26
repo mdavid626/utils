@@ -16,6 +16,7 @@
 * **About Windows**: winver
 * **File Explorer**: explorer
 * **Task Manager**: taskmgr
+* **Remote Desktop Connection**: mstsc
 
 ## filter.ahk
 Quickly access filter functionality in Microsoft SQL Management Studio 2014.
