@@ -26,3 +26,6 @@ Use shortcut: Windows Key + `
 Works on: Views, Stored procedures, Functions.
 
 Use AutoHotkey to open and run this script.
+
+## Update all repositories in a folder
+`Get-ChildItem -Directory | ForEach-Object { pushd; cd $_; git pull; popd `  
